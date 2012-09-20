@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[<?${TM_PHP_OPEN_TAG:php} Helpers::showArray(\$${1:arrayName},'{1:arrayName}'); ?>]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>showArray</tabTrigger>
+	<scope>text.html - source.php</scope>
+	<description>&lt;?php Helpers::showArray ... ?&gt;</description>
+</snippet>

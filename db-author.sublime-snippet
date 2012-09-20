@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * The ${1:$TM_FILENAME} Controller
+ * 
+ * @author ${2:$TM_FULLNAME} <${3:$TM_EMAIL}>
+ * @since ${4:2012.09.19}
+ * @copyright Copyright &copy; 2002-2012 $TM_ORGANIZATION_NAME
+ */
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>db-author</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
