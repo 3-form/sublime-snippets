@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
-<?${TM_PHP_OPEN_TAG:php} Helpers::boolValue(\$${1:variable},"${1:variable}"); ?>
+<?${TM_PHP_OPEN_TAG:php} Debug::boolValue(\$${1:variable},"${1:variable}"); ?>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>boolValue</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<description>&lt;?php Helpers::boolValue() ?&gt;</description>
-	<scope>text - source.php</scope>
+	<description>&lt;?php Debug::boolValue() ?&gt;</description>
+	<scope>text.html - source.php</scope>
 </snippet>

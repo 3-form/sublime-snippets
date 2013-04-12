@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Helpers::showArray(\$${1:arrayName});]]></content>
+	<content><![CDATA[Helpers::showArray(\$${1:arrayName},'${1:arrayName}');]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>showArray</tabTrigger>
 	<scope>source.php</scope>
