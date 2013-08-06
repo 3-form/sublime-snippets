@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[\$this->addColumn('${1:table}', '${2:columnName}', '${3:columnType}');$0]]></content>
+    <tabTrigger>addColumn-migration</tabTrigger>
+    <scope>source.php</scope>
+    <description>Yii migration add column method</description>
+</snippet>
